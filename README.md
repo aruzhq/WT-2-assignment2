@@ -9,9 +9,9 @@ Node.js (https://nodejs.org/en)
 3. Create .env file.
 4. Paste the into .env file:
    
-OPENWEATHER_API_KEY=key1
-GNEWS_API_KEY=key2
-AIRVISUAL_API_KEY=key3
+### OPENWEATHER_API_KEY=key1
+### GNEWS_API_KEY=key2
+### AIRVISUAL_API_KEY=key3
    
 where key1 is your API key from OpenWeather, key2 is your API key from GNews, key3 is your API key from AirVisual (just replace them with your real keys)
 
@@ -33,8 +33,8 @@ key3 -
 
 5. Write in terminal:
 
-npm install express axios dotenv
-node app.js
+### npm install express axios dotenv
+### node app.js
 
 6. If everything is okay in terminal will appear 'Server is running on http://localhost:3000'
 7. Go to http://localhost:3000
