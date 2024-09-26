@@ -15,7 +15,7 @@ Node.js (https://nodejs.org/en)
    
 where key1 is your API key from OpenWeather, key2 is your API key from GNews, key3 is your API key from AirVisual (just replace them with your real keys)
 
-How to get your key1, key2, key3?
+## How to get your key1, key2, key3?
 key1 - 1. Register/log in into https://openweathermap.org/ site and verify your email.
        2. Go to https://home.openweathermap.org/api_keys and generate a new key.
        3. Copy it and paste in place of key1.
